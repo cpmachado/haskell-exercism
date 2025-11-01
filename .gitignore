@@ -1,0 +1,7 @@
+.exercism
+.stack-work
+test
+*.md
+stack.*
+*.yaml
+*.cabal
